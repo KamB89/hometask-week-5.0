@@ -1,0 +1,36 @@
+.hr-1{
+    margin-left: -16px;
+    margin-right: -16px;
+        background-color: red;
+}
+.buy-1{
+    background-color: red;
+}
+.hr-2{
+    background-color: orange;
+}
+
+.buy-2{
+    background-color: orange;
+}
+
+.hr-3{
+    background-color: blue;
+}
+.buy-3{
+    background-color: blue;
+}
+
+
+.hr-4{
+    background-color: green;
+}
+.buy-4{
+    background-color: green;
+}
+/* .box:nth-child(2):nth-child(2){
+    background-color: orange;
+
+
+    OTAZKA
+} */
